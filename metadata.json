@@ -1,0 +1,7 @@
+{
+  "name": "fluid-jusDNCe",
+  "description": "A music-responsive animated loop generator using Gemini Flash Image and Audio analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
